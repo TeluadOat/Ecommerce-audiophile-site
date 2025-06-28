@@ -17,7 +17,7 @@ for (let i = 0; i < paras.length; i++) {
         }
     })
 }
-//learnt stopPropagetion
+//learnt stopPropagetion...
 
 menuToggle.addEventListener("click", function (e) {
     menuDropdown.classList.toggle("collapsed");
